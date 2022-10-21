@@ -1,0 +1,2 @@
+SumMC.py: code for our SumMC model. An Openai API key is required.
+Wikihow_annotation.ipynb: our annotation program for building WikiHow-Wikidata dataset.

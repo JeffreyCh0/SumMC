@@ -1,0 +1,9 @@
+Please download datasets with the link below:
+https://drive.google.com/file/d/1Oebe1sbbixX7FWHX813diCdqReh1IyWH/view?usp=sharing
+
+wikihow.csv: wikiHow titles, urls, articles, and target mentions
+annotation_controled_dedup.csv: attention checked, deduplicated annotation result of WikiHow-Wikidata dataset, including mention, entity Wikidata QID, url, start time, end time, and unique id.
+
+AIDA_B_dict.pickle, wikiwiki_dict.pickle, WNED_CWEB_dict.pickle, WNED_WIKI_dict.pickle: evaluation datasets for SumMC model.
+
+AIDA-B_summaries.json: example guided summaries on AIDA-B dataset.
